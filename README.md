@@ -9,7 +9,7 @@ Supported Games and Modes
 
 # [Download PC Client](https://lybsoft.github.io/rhythmremote/release.zip)
 
-# [Play Store Link]()
+# [Play Store Link](https://play.google.com/store/apps/details?id=lyb.RhythmRemote)
 
 # How it looks like?
 
@@ -29,10 +29,10 @@ Non-crowded 2.4ghz Wifi.
 
 # Usage :
 
-Set the mode, Set the IP Address to your phone's IP Address, Press Start and you're done.
+Set the mode, Set the IP Address to your phone's IP Address, Press Start, Configure the game keybind according to this app (press it on the phone) and you're done.
 
 # Osu! PP Realtime Display Usage :
 
 Get [Sync](https://github.com/OsuSync/Sync), Install [RTPPD](https://github.com/OsuSync/RealTimePPDisplayer) into Sync, on config.ini, find this line "OutputMethods=" and set it to "OutputMethods=wpf,mmf".
 
-Set mode to 4, Set the IP Address to your phone's IP Address, Press Start and you're done.
+Set mode to 4, Set the IP Address to your phone's IP Address, Press Start, Configure the game keybind according to this app (press it on the phone) and you're done.

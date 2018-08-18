@@ -17,6 +17,12 @@ alt="yt1" width="240" height="180" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/xGm3lc47hI4/0.jpg" 
 alt="yt2" width="240" height="180" border="10" /></a>
 
+# Requirements :
+
+Non-crowded 2.4ghz Wifi.
+
+5ghz wifi or usb tethering recommended.
+
 # Usage :
 
 Set the mode, Set the IP Address to your phone's IP Address, Press Start and you're done.

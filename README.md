@@ -3,8 +3,8 @@
 Supported Games and Modes
 
 - Osu!std
-  Osu!Mania 4key
-  PP Realtime Display
+  , Osu!Mania 4key
+  , PP Realtime Display
   
 - K-Shoot Mania!
 

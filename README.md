@@ -7,6 +7,10 @@ Supported Games and Modes
 - Osu PP Realtime Display 
 - K-Shoot Mania!
 
+# [Download PC Client](https://lybsoft.github.io/rhythmremote/release.zip)
+
+# [Play Store Link]()
+
 # How it looks like?
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-jbh1yXUIMs

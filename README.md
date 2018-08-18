@@ -7,6 +7,16 @@ Supported Games and Modes
 - Osu PP Realtime Display 
 - K-Shoot Mania!
 
+# How it looks like?
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-jbh1yXUIMs
+" target="_blank"><img src="http://img.youtube.com/vi/-jbh1yXUIMs/0.jpg" 
+alt="yt1" width="240" height="180" border="10" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=xGm3lc47hI4
+" target="_blank"><img src="http://img.youtube.com/vi/xGm3lc47hI4/0.jpg" 
+alt="yt2" width="240" height="180" border="10" /></a>
+
 # Usage :
 
 Set the mode, Set the IP Address to your phone's IP Address, Press Start and you're done.

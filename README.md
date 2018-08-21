@@ -35,4 +35,6 @@ Set the mode, Set the IP Address to your phone's IP Address, Press Start, Config
 
 Get [Sync](https://github.com/OsuSync/Sync), Install [RTPPD](https://github.com/OsuSync/RealTimePPDisplayer) into Sync, on config.ini, find this line "OutputMethods=" and set it to "OutputMethods=wpf,mmf".
 
+Run Sync and make sure it stays running in thr background.
+
 Set mode to 4, Set the IP Address to your phone's IP Address, Press Start, Configure the game keybind according to this app (press it on the phone) and you're done.

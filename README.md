@@ -29,7 +29,9 @@ Non-crowded 2.4ghz Wifi.
 
 # Usage :
 
-Set the mode, Set the IP Address to your phone's IP Address, Press Start, Configure the game keybind according to this app (press it on the phone) and you're done.
+On your phone, select RhythmRemote.
+
+Run the PC Client, Set the mode, Set the IP Address to your phone's IP Address, Press Start, Configure the game keybind according to this app (press it on the phone) and you're done.
 
 # Osu! PP Realtime Display Usage :
 
@@ -39,4 +41,4 @@ Run Sync and make sure it stays running in the background.
 
 On your phone, select Osu PP Realtime Display.
 
-Set mode to 4, Set the IP Address to your phone's IP Address, Press Start, Configure the game keybind according to this app (press it on the phone) and you're done.
+Run the PC Client, Set mode to 4, Set the IP Address to your phone's IP Address, Press Start, Configure the game keybind according to this app (press it on the phone) and you're done.

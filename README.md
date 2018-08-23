@@ -7,6 +7,8 @@ Supported Games and Modes
 - Osu PP Realtime Display 
 - K-Shoot Mania!
 
+This Software is not affiliated with Osu Ppy Ltd, Osu! Sync Tools, or K-Shoot Mania and is a separate entity.
+
 # [Download PC Client](https://lybsoft.github.io/rhythmremote/release.zip)
 
 # [Play Store Link](https://play.google.com/store/apps/details?id=lyb.RhythmRemote)
